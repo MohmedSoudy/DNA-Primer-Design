@@ -1,0 +1,47 @@
+F:\3rd year Codes\Primer Design\Primer\Primer\bin\Debug\Primer.exe.config
+F:\3rd year Codes\Primer Design\Primer\Primer\bin\Debug\Primer.exe
+F:\3rd year Codes\Primer Design\Primer\Primer\bin\Debug\Primer.pdb
+F:\3rd year Codes\Primer Design\Primer\Primer\obj\Debug\Primer.csprojResolveAssemblyReference.cache
+F:\3rd year Codes\Primer Design\Primer\Primer\obj\Debug\Primer.Form1.resources
+F:\3rd year Codes\Primer Design\Primer\Primer\obj\Debug\Primer.Properties.Resources.resources
+F:\3rd year Codes\Primer Design\Primer\Primer\obj\Debug\Primer.csproj.GenerateResource.Cache
+F:\3rd year Codes\Primer Design\Primer\Primer\obj\Debug\Primer.exe
+F:\3rd year Codes\Primer Design\Primer\Primer\obj\Debug\Primer.pdb
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\bin\Debug\Primer.exe.config
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\obj\Debug\Primer.exe
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\obj\Debug\Primer.pdb
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\bin\Debug\Primer.exe
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\bin\Debug\Primer.pdb
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\obj\Debug\Primer.csprojResolveAssemblyReference.cache
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\obj\Debug\Primer.Properties.Resources.resources
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\obj\Debug\Primer.csproj.GenerateResource.Cache
+C:\Users\Soudy\Desktop\primer design\Primer Design\Primer\Primer\obj\Debug\Primer.Form2.resources
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\bin\Debug\Primer.exe.config
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\obj\Debug\Primer.exe
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\obj\Debug\Primer.pdb
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\obj\Debug\Primer.csprojResolveAssemblyReference.cache
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\obj\Debug\Primer.Form1.resources
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\obj\Debug\Primer.Form2.resources
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\obj\Debug\Primer.Properties.Resources.resources
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\obj\Debug\Primer.csproj.GenerateResource.Cache
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\bin\Debug\Primer.exe
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Ezzat\Primer\bin\Debug\Primer.pdb
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\bin\Debug\Primer.exe.config
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\obj\Debug\Primer.exe
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\obj\Debug\Primer.pdb
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\bin\Debug\Primer.exe
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\bin\Debug\Primer.pdb
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\obj\Debug\Primer.Form1.resources
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\obj\Debug\Primer.Form2.resources
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\obj\Debug\Primer.Properties.Resources.resources
+C:\Users\Soudy\Desktop\primer design\Team tasks\Primer Design1\Primer\obj\Debug\Primer.csproj.GenerateResource.Cache
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\bin\Debug\Primer.exe.config
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\obj\Debug\Primer.exe
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\obj\Debug\Primer.pdb
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\bin\Debug\Primer.exe
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\bin\Debug\Primer.pdb
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\obj\Debug\Primer.csprojResolveAssemblyReference.cache
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\obj\Debug\Primer.Form1.resources
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\obj\Debug\Primer.Form2.resources
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\obj\Debug\Primer.Properties.Resources.resources
+G:\mohmed\Genetic Enginering\Projects\Primer Design1\Primer\obj\Debug\Primer.csproj.GenerateResource.Cache
